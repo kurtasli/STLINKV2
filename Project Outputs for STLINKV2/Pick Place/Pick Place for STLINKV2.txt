@@ -1,0 +1,61 @@
+Altium Designer Pick and Place Locations
+C:\Users\asli\Desktop\Hardware Design\Project Files\InProgress\PCB_Project_2\Project Outputs for STLINKV2\Pick Place\Pick Place for STLINKV2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       30.10.24
+Time:       22:47
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                   Layer       Footprint                                Center-X(mm) Center-Y(mm) Rotation Description                                                                                    
+J3         SBH11-PBPC-D05-RA-BK      TopLayer    5X2_MALE_HEADER_2.54MM_SHROUDED_-_4_WALL 40.1700      7.6900       270      "Conn Shrouded Header (4 Sides) HDR 10 POS 2.54mm Solder RA Side Entry Thru-Hole"              
+F1         PRG21BC1R0MM1RA           TopLayer    FUSE_0805                                9.9750       12.0000      90       "Thermistor PTC 1 Ohm 20% 2-Pin 0805 Surface Mount Solder Pad Embossed T/R"                    
+XTAL1      ECS-80-10-30B-CWN-TR      TopLayer    4-SMD,_No_Lead                           22.9000      7.6000       270      "Crystal 8MHz ±10ppm (Tol) ±15ppm (Stability) 10pF FUND 100Ohm 4-Pin Mini-SMD T/R"             
+USB1       690-005-299-043           TopLayer    MINI_USB_B                               4.8500       7.0000       270      "Conn Mini USB 2.0 Type B RCP 5 POS 0.8mm Solder RA SMD 5 Terminal 1 Port"                     
+U2         STM32F103C8T6             TopLayer    LQFP48-STM                               30.4900      6.6600       0        "ARM Cortex-M3 STM32 F1 Microcontroller 32-Bit 72MHz 64kB FLASH LQFP48 STM32F103C8T6"          
+U1         LM1117MPX-33NOPB          BottomLayer SOT223                                   11.7000      11.3000      270      "800-mA 15-V linear voltage regulator ; 4-SOT-223 0 to 125"                                    
+SW1        "PTS810 SJG 250 SMTR LFS" BottomLayer BUTTON_SMD_BLUE                          15.4000      2.7000       0        "Switch Tactile N.O. SPST Button J-Bend 0.05A 16VDC 100000Cycles 3.92N SMD T/R"                
+R19        RC0805FR-0736KL           TopLayer    RES_0805                                 13.8000      3.9000       180      "SMD Chip Resistor, 36 kOhm, ± 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose"    
+R18        RC0805FR-071K5L           TopLayer    RES_0805                                 10.6000      4.7500       0        "SMD Chip Resistor, 1.5 kOhm, ï¿½ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose" 
+R17        RC0603JR-07100RL          TopLayer    RES_0603                                 13.6000      1.2750       0        "RES 100 %5 OHM 0603 SMD"                                                                      
+R16        RC0603JR-0715RL           TopLayer    RES_0603                                 14.3000      6.4500       0        "RES 15 %5 OHM 0603 SMD"                                                                       
+R15        RC0603FR-0710KL           TopLayer    RES_0603                                 5.3000       1.9000       270      "RES 10K %1 OHM 0603 SMD"                                                                      
+R14        RC0603FR-0710KL           TopLayer    RES_0603                                 13.6000      2.5250       0        "RES 10K %1 OHM 0603 SMD"                                                                      
+R13        RC0603JR-0715RL           TopLayer    RES_0603                                 14.3000      8.3500       0        "RES 15 %5 OHM 0603 SMD"                                                                       
+R12        ERJ-H3EF3300V             TopLayer    RES_0603                                 14.0000      13.8500      0        "RES, 330R, 1%, 0.125W, 0603;"                                                                 
+R11        ERJ-H3EF3300V             TopLayer    RES_0603                                 15.7500      12.8500      270      "RES, 330R, 1%, 0.125W, 0603;"                                                                 
+R10        RC0603FR-0710KL           BottomLayer RES_0603                                 27.7250      9.9000       270      "RES 10K %1 OHM 0603 SMD"                                                                      
+R9         RC1206FR-07680RL          TopLayer    RES_1206                                 7.0000       13.7500      180      "SMD Chip Resistor, 680 Ohm, ï¿½ 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose"  
+R8         RC0603JR-074K7L           BottomLayer RES_0603                                 24.5000      4.7500       90       "RES 4K7 %5 OHM 0603 SMD"                                                                      
+R7         AC0201FR-0722RL           BottomLayer RES_0201                                 37.0000      7.5000       0        "SMD Chip Resistor, 22 Ohm, ± 1%, 50 mW, 0201 [0603 Metric], Thick Film, General Purpose"      
+R6         AC0201FR-0722RL           TopLayer    RES_0201                                 37.0000      6.7500       0        "SMD Chip Resistor, 22 Ohm, ± 1%, 50 mW, 0201 [0603 Metric], Thick Film, General Purpose"      
+R5         RC0603FR-0710KL           BottomLayer RES_0603                                 32.1750      3.9000       0        "RES 10K %1 OHM 0603 SMD"                                                                      
+R4         RC0603FR-0710KL           BottomLayer RES_0603                                 28.8250      11.9250      180      "RES 10K %1 OHM 0603 SMD"                                                                      
+R3         RC0603JR-074K7L           BottomLayer RES_0603                                 24.5000      7.2500       90       "RES 4K7 %5 OHM 0603 SMD"                                                                      
+R2         AC0201FR-0722RL           TopLayer    RES_0201                                 37.0000      2.5000       0        "SMD Chip Resistor, 22 Ohm, ± 1%, 50 mW, 0201 [0603 Metric], Thick Film, General Purpose"      
+R1         AC0201FR-0722RL           TopLayer    RES_0201                                 37.0000      1.5000       0        "SMD Chip Resistor, 22 Ohm, ± 1%, 50 mW, 0201 [0603 Metric], Thick Film, General Purpose"      
+Q1         BC817-16                  TopLayer    SOT23                                    10.6500      2.2750       90       "ON Semi BC817-16LT1G NPN Bipolar Transistor; 0.5 A; 45 V; 3-Pin SOT-23"                       
+J2         2.54mm                    TopLayer    4X1_PINOUT                               32.2000      13.5000      180      ""                                                                                             
+J1         61300211121               TopLayer    2X1_MALE_HEADER_2.54MM                   21.5000      13.5000      0        ""                                                                                             
+D3         SM712                     TopLayer    SOT-23                                   11.0000      7.4000       0        "7V/12V Tvs, Package SOT-23, Tvs A"                                                            
+D2         APHB1608CGKSURKC          TopLayer    LED_INDP_GREENRED_0603                   14.0000      12.3500      0        "Green/Red 0603 130° Clear 50/250 mcd 2.1/1.95 V Surface Mount Flat Top LED"                   
+D1         LTST-C170KFKT             TopLayer    LED_ORANGE_0805                          3.5500       13.5000      0        "LED Uni-Color Orange 611nm 2-Pin Chip LED T/R / LED ORANGE CLEAR 0805 SMD"                    
+C16        CC0603FRNPO9BN120         TopLayer    CAP_0603                                 22.9000      4.0500       0        "Multilayer Ceramic Capacitor, 12 pF, 50 V, ï¿½ 1%, C0G (NP0), 0603 [1608 Metric]"             
+C15        CC0603FRNPO9BN120         TopLayer    CAP_0603                                 22.9000      11.0500      180      "Multilayer Ceramic Capacitor, 12 pF, 50 V, ï¿½ 1%, C0G (NP0), 0603 [1608 Metric]"             
+C14        C0603C104K5RACTU          BottomLayer CAP_0603                                 18.4000      2.8250       90       "CAP CER 100nF %10 0603 SMD"                                                                   
+C13        C0603C104K5RACTU          BottomLayer CAP_0603                                 28.8000      9.7750       270      "CAP CER 100nF %10 0603 SMD"                                                                   
+C12        T491A106K010AT            BottomLayer CAP_1206_TANT                            18.0000      12.6000      90       "Cap Tant Solid 10uF 10V A CASE 10% (3.2 X 1.6 X 1.6mm) SMD 3216-18 4 Ohm 125 C T/R"           
+C11        C0603C104K5RACTU          BottomLayer CAP_0603                                 16.5000      12.1000      270      "CAP CER 100nF %10 0603 SMD"                                                                   
+C10        C0603C104K5RACTU          BottomLayer CAP_0603                                 15.4000      6.8000       90       "CAP CER 100nF %10 0603 SMD"                                                                   
+C9         T491A106K010AT            BottomLayer CAP_1206_TANT                            16.9000      8.0000       270      "Cap Tant Solid 10uF 10V A CASE 10% (3.2 X 1.6 X 1.6mm) SMD 3216-18 4 Ohm 125 C T/R"           
+C8         0603B103K160CT            BottomLayer CAP_0603                                 28.5750      5.6500       180      "CAP CER 10nF %10 0603"                                                                        
+C7         CL21B105KBFNNNE           BottomLayer CAP_0805                                 28.6250      7.5500       180      "CAP CER 1uF %10 0805"                                                                         
+C6         CL21A475KAQNNNE           BottomLayer CAP_0805                                 31.9000      8.6000       0        "CAP CER 4.7uF %10 0805"                                                                       
+C5         C0603C104K5RACTU          TopLayer    CAP_0603                                 35.4250      10.4000      180      "CAP CER 100nF %10 0603 SMD"                                                                   
+C4         C0603C104K5RACTU          TopLayer    CAP_0603                                 34.2500      1.9501       90       "CAP CER 100nF %10 0603 SMD"                                                                   
+C3         C0603C104K5RACTU          BottomLayer CAP_0603                                 36.7500      9.7500       90       "CAP CER 100nF %10 0603 SMD"                                                                   
+C2         C0603C104K5RACTU          TopLayer    CAP_0603                                 26.5000      12.0000      270      "CAP CER 100nF %10 0603 SMD"                                                                   
+C1         C0603C104K5RACTU          TopLayer    CAP_0603                                 25.2500      12.0000      270      "CAP CER 100nF %10 0603 SMD"                                                                   
