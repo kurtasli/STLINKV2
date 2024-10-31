@@ -14,7 +14,7 @@
 ## Block Diagram
 
 <p align="left">
-  <img width="600" height="350" src="https://raw.githubusercontent.com/kurtasli/STLINKV2/refs/heads/main/Images/blockdiagram.png">
+  <img width="650" height="350" src="https://raw.githubusercontent.com/kurtasli/STLINKV2/refs/heads/main/Images/blockdiagram.png">
 </p>
 
 Red lines refer to POWER LINE.
