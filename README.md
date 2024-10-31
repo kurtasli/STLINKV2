@@ -6,8 +6,8 @@
 ## Board View
 
 <div style="display: flex; align-items: center;">
-  <img style="margin-right: 10px;" width="320" height="350" src="https://raw.githubusercontent.com/kurtasli/STLINKV2/refs/heads/main/Images/view1.png">
-  <img width="400" height="350" src="https://raw.githubusercontent.com/kurtasli/STLINKV2/refs/heads/main/Images/view2.png">
+  <img style="margin-right: 10px;" width="350" height="350" src="https://raw.githubusercontent.com/kurtasli/STLINKV2/refs/heads/main/Images/view1.png">
+  <img width="550" height="350" src="https://raw.githubusercontent.com/kurtasli/STLINKV2/refs/heads/main/Images/view2.png">
 </div>
 
 
